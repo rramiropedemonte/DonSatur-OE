@@ -1,0 +1,8 @@
+- **Asignatura:** Organización Empresarial
+- **Carrera:** Tecnicatura Universitaria en Programación a Distancia (TUPAD)
+- **Institución:** Universidad Tecnológica Nacional (UTN)
+- **Cuerpo Docente:**
+- Prof. Gabriela Martínez (Titular)
+- Prof. Carolina Bruno, Prof. Mario Raúl López, Prof. Andrea Ramos(Adjuntos)
+- **Integrantes / Alumno:**
+- Ramiro Ivan Pedemonte — Mail: `ramiivan59@gmail.com`
